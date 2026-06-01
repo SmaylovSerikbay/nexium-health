@@ -1,0 +1,6 @@
+{
+  "name": "Nexium Health",
+  "description": "Экосистема автоматизированных систем медицинских осмотров (АСМО) — терминалы, аренда, и телемедицина «под ключ» по стандартам Apple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
