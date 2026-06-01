@@ -6,3 +6,10 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# SSH credentials (публичный репозиторий!)
+ssh.md
+ssh.txt
+
+# Метаданные AI Studio
+metadata.json

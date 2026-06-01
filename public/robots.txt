@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Карты сайта
+Sitemap: https://nexium.avr-group.kz/sitemap.xml
+
+# Запрещаем служебные пути
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /.git/
+Disallow: /assets/

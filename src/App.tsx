@@ -22,8 +22,8 @@ export default function App() {
   const [terminals, setTerminals] = useState<number>(3);
 
   // Asset paths from our high-fidelity generated resources
-  const terminalImageSrc = "/src/assets/images/nexium_health_terminal_1780340176534.png";
-  const statsImageSrc = "/src/assets/images/nexium_stats_1780337949930.png";
+  const terminalImageSrc = "/images/nexium_health_terminal_1780340176534.png";
+  const statsImageSrc = "/images/nexium_stats_1780337949930.png";
 
   useEffect(() => {
     // Sync Tailwind standard dark class on root html document
